@@ -1,2 +1,2 @@
-# Netfix_Recomendation
-The model which was analyzed with numerous netfix movies & TV data will recommend you the shows and movies that ou may like based on your favourites.
+# Netflix_Recomendation
+The model which was analyzed with numerous netflix movies & TV shows data will recommend you the shows and movies that user may like based on their favourite.
